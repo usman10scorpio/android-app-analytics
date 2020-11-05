@@ -4,7 +4,7 @@
     `npm run client-install`
     `npm run server-install`
 
-2) Then to run the project write this command.
+2) Run the project
 
     `npm run start` ( it will start both the client and server)
 
