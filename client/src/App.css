@@ -1,0 +1,22 @@
+.App {
+    width: 60%;
+    margin: 0 auto;
+}
+.App-heading {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.8rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.App-charts {
+    /* display: flex; */
+}
+
+.App__nodata {
+    text-align: center;
+    font-size: 1.8rem;
+    height: 3rem;
+}
+

@@ -1,0 +1,15 @@
+html {
+  font-size: 62.5%;
+  /* default font size is 10px -> 10/16 = 0.625 * 100% font size of browser*/
+}
+
+body {
+  margin: 0;
+  padding: 0 !important;
+}
+
+body * {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
